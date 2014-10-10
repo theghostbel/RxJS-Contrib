@@ -1,0 +1,10 @@
+{
+  name: "RxJS-Contrib",
+  version: "0.0.2",
+  repository: {
+    type: "git",
+    url: "https://github.com/theghostbel/RxJS-Contrib"
+  },
+  dependencies: {},
+  scripts: {}
+}
